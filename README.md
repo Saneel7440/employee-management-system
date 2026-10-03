@@ -6,7 +6,7 @@ A Java web application for managing employee records using JSP, Servlets, JDBC a
 - Add employee
 - View all employees
 - Edit employee
-- Delete employee
+- Remove employee
 - MySQL database integration
 - PreparedStatement for database operations
 
